@@ -1,2 +1,5 @@
 # evaluasi-apk-2
-![enter image description here](https://picasaweb.google.com/111089165372474788336/6731280201376893345#6731280199110347506 "ss1")
+![Screenshot_2019-08-31-17-42-30-69](https://user-images.githubusercontent.com/52729176/64062926-850c4a00-cc17-11e9-81c5-a256e24fbea6.png)
+![Screenshot_2019-08-31-17-42-34-85](https://user-images.githubusercontent.com/52729176/64063094-ffd66480-cc19-11e9-9e55-4abe4dc4ee81.png)
+![Screenshot_2019-08-31-17-42-38-33](https://user-images.githubusercontent.com/52729176/64063100-0fee4400-cc1a-11e9-8178-f0db14b50d7e.png)
+![Screenshot_2019-08-31-17-42-43-56](https://user-images.githubusercontent.com/52729176/64063109-21375080-cc1a-11e9-9a8f-b878693aa2f8.png)
