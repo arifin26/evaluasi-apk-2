@@ -8,6 +8,7 @@ import Mobil3 from './8'
 import Mobil4 from './9'
 import Mobil5 from './10'
 import Mobil6 from './11'
+import PeoplePage from './data'
 
 const Route=createMaterialTopTabNavigator({
     Menu:{
@@ -16,6 +17,10 @@ const Route=createMaterialTopTabNavigator({
     },
    Member:{
         screen:Macan,
+        navigationOption:{header:null}
+    },
+    List:{
+        screen:PeoplePage ,
         navigationOption:{header:null}
     }
 }, {headerMode: 'none'})
